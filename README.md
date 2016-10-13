@@ -3,8 +3,8 @@ For our research and design class Jonathan Kievits and I got to play around with
 
 Do you have a Windows computer instead of a Mac??? check out <a href="https://github.com/JonathanKievits/Arduino">Jonathan Kievits'</a> github page!!
 
-we recommend using www.codebender.cc for the arduino code!
-use <a href="">this</a> to connect the controller like we did.
+we recommend using <a href="www.codebender.cc"></a> for the arduino code!
+use <a href="https://youtu.be/Sfwl0_sm6Yo">this</a> to connect the controller like we did.
 
 On codebender put this code:
 <pre>

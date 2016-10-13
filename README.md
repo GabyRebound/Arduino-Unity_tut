@@ -1,11 +1,10 @@
 # Arduino To Unity tutorial for Mac
+For our research and design class Jonathan Kievits and I got to play around with the arduino. Here is a very simple way to get Parallax 2-AXIS Input to Unity.
 
-For our research and design class we got to play around with the arduino. Here is a very simple way to get Parallax 2-AXIS Input to Unity.
+Do you have a Windows computer instead of a Mac??? check out <a href="https://github.com/JonathanKievits/Arduino">Jonathan Kievits'</a> github page!!
 
 we recommend using www.codebender.cc for the arduino code!
-user <a href="">our tutorial</a> to understand better
-
-connect the arduino like this (sorry if image is gone :( )
+use <a href="">this</a> to connect the controller like we did.
 
 On codebender put this code:
 <pre>
@@ -27,10 +26,10 @@ void loop()
 </code>
 </pre>
 
-then open the <a href="https://github.com/danivdwerf/Arduino_tut/blob/master/Assets/Test_Script.cs">unity code</a>
+then open the <a href="https://github.com/danivdwerf/Arduino-Unity_tut/blob/master/Assets/Test_Script.cs">unity code</a>
 
 the /dev/tty.usbmodem1421 may be different for your mac device, so check your path on codebender
 
 put this script on a cube and use the controller to move it
 
-this should get you started :D
+this should get you started!
